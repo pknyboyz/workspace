@@ -35,6 +35,7 @@ async def on_message(message):
     msg=message.content
     if '+recon' in msg:
         url = str.strip(msg.split("+recon",1)[1])
+        print (url)
         # Opening the file "out.txt" in read and write mode, seeking to the beginning of the file, and
         # truncating the file.
         f = open("out.txt", "r+")
