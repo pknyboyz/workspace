@@ -37,7 +37,7 @@ require (
 	github.com/projectdiscovery/retryabledns v1.0.12-0.20210419174848-eec3ac17d61e // indirect
 	github.com/projectdiscovery/stringsutil v0.0.0-20210804142656-fd3c28dbaafe // indirect
 	golang.org/x/net v0.0.0-20210415231046-e915ea6b2b7d // indirect
-	golang.org/x/sys v0.0.0-20210419170143-37df388d1f33 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
